@@ -51,9 +51,9 @@ Mindset: Never Stop Exploring
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&hide_border=true&bg_color=050505&title_color=00FF99&icon_color=00FF99&text_color=FFFFFF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KAMRUL-520&show_icons=true&include_all_commits=true&hide_border=true&bg_color=050505&title_color=00FF99&icon_color=00FF99&text_color=FFFFFF" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=050505&title_color=00FF99&text_color=FFFFFF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAMRUL-520&layout=compact&hide_border=true&bg_color=050505&title_color=00FF99&text_color=FFFFFF" width="49%" />
 
 </div>
 
@@ -63,7 +63,7 @@ Mindset: Never Stop Exploring
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=050505&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=00FF99&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="95%" />
+<img src="https://streak-stats.demolab.com?user=KAMRUL-520&hide_border=true&background=050505&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=00FF99&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="95%" />
 
 </div>
 
@@ -73,7 +73,7 @@ Mindset: Never Stop Exploring
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050505&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true&custom_title=KAMRUL%20ACTIVITY%20GRAPH" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KAMRUL-520&bg_color=050505&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true&custom_title=KAMRUL%20ACTIVITY%20GRAPH" width="100%" />
 
 </div>
 
@@ -82,7 +82,7 @@ Mindset: Never Stop Exploring
 ## 💻 TERMINAL
 
 ```bash
-┌──[ KAMRUL@github ]
+┌──[ kamrul-520@github ]
 └──$ whoami
 
 KAMRUL
@@ -90,7 +90,7 @@ Python Developer
 Automation Enthusiast
 Always Learning
 
-┌──[ KAMRUL@github ]
+┌──[ KAMRUL-520@github ]
 └──$ echo "Never stop exploring."
 
 Never stop exploring.
@@ -102,21 +102,18 @@ Never stop exploring.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/kamrul-520">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF99" />
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+<a href="https://t.me/@Rjkamrul10">
 <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=00FF99" />
 </a>
 
-<a href="https://youtube.com/@YOUR_YOUTUBE_USERNAME">
+<a href="https://youtube.com/@kamrul-520">
 <img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" />
 </a>
 
-<a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME">
-<img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" />
-</a>
 
 </div>
 
@@ -137,7 +134,7 @@ Never stop exploring.
 ╚══════════════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00FF99&label=PROFILE+VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=KAMRUL-520&style=for-the-badge&color=00FF99&label=PROFILE+VISITORS" />
 
 ### `CODE • AUTOMATE • INNOVATE • REPEAT`
 
